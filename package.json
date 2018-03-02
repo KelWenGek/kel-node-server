@@ -1,0 +1,28 @@
+{
+  "name": "kel-node-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KelWenGek/kel-node-server.git"
+  },
+  "keywords": [],
+  "author": "KelWenGek <wengxiacheng3132@163.com> (https://github.com/KelWenGek)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KelWenGek/kel-node-server/issues"
+  },
+  "homepage": "https://github.com/KelWenGek/kel-node-server#readme",
+  "dependencies": {
+    "chalk": "^2.3.1",
+    "debug": "^3.1.0",
+    "handlebars": "^4.0.11",
+    "mime": "^2.2.0",
+    "pify": "^3.0.0",
+    "statuses": "^1.4.0"
+  }
+}
